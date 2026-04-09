@@ -49,12 +49,9 @@ Follow these instructions to set up the project locally.
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or report issues.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 - Sujal Sande (2026)
+- Vivek Gupta (2026)
 
 ## Acknowledgments
-- [Inspiration](https://www.example.com) for the project.
 - Thanks to the open-source community for their resources and support.
